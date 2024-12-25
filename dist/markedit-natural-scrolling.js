@@ -1,0 +1,1 @@
+"use strict";const n=document.createElement("style");n.textContent="html, body { overflow: scroll !important; }";document.head.appendChild(n);document.addEventListener("wheel",e=>{var t;window.config.lineWrapping&&e.deltaX!==0&&((t=window.visualViewport)==null?void 0:t.scale)===1&&e.preventDefault()},{passive:!1});
